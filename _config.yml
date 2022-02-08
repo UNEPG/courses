@@ -18,7 +18,7 @@ tagline: UNEPG 2022 Online Courses and Resources
 description: UniSat Nano-Satellite Educational Programme for Girls
 author: UniSat
 baseurl: '/' # the subpath of your site, e.g. /blog
-url: 'https://unepg.github.io/courses/' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://unepg.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings
@@ -28,12 +28,14 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Kevin Lin:
-    - 'https://kevinl.info'
-  Just the Class on GitHub:
-    - 'https://github.com/kevinlin1/just-the-class'
+  UniSat:
+    - 'https://unisat.kz'
+  Unicef:
+    - 'https://unicef.org'
+  UniSat WiKi:
+    - 'https://github.com/UNEPG/unisat/wiki'
 footer_content:
-
+    - this is the footer_content
 # Collections for website data
 collections:
   staffers:
