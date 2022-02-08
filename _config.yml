@@ -35,7 +35,7 @@ aux_links:
   UniSat WiKi:
     - 'https://github.com/UNEPG/unisat/wiki'
 footer_content:
-    - this is the footer_content
+    - UniSat Nano-satellite Educational Programme for Girls (UNEPG) is a joint project  of Al-Farabi High Technology Park and Unicef Kazakhstan.
 # Collections for website data
 collections:
   staffers:
